@@ -1,6 +1,7 @@
 h1{
-    color: rgb(142, 38, 124);
-    font-family: 'Times New Roman', Times, serif;
+    color: rgb(148, 67, 113);
+    font-style:italic;
+    font-family:serif;
     text-decoration-line: underline;
     text-shadow: 10px 10px 20px;
 }
@@ -9,4 +10,7 @@ body{
     background-repeat:no-repeat;
     background-size: cover;
     background-attachment: fixed;
+}
+#headingparagraph{
+    background-color: rgb(235, 232, 220);
 }
