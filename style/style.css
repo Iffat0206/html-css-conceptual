@@ -1,0 +1,12 @@
+h1{
+    color: rgb(142, 38, 124);
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration-line: underline;
+    text-shadow: 10px 10px 20px;
+}
+body{
+    background-image: url(../image/bg-0.jpeg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
